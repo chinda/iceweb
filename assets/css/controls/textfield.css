@@ -1,0 +1,34 @@
+input[type='text'].web_textfield,
+input[type='password'].web_textfield,
+input[type='email'].web_textfield,
+input[type='tel'].web_textfield,
+input[type='number'].web_textfield{
+
+    width: 100%;
+    height: 30px;
+    font-size: 10pt;
+    position: relative;
+    margin: 5px 0 5px 0;
+    padding: 0 5px 0 5px;
+    outline: none;
+    border: solid 1px #e7e7e7;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+}
+
+
+input[type="text"].web_header_right_search_text
+{
+    width: 200px;
+    height: 26px;
+    border: solid 0 #fff;
+    background-color: #2a2a2a;
+    position: relative;
+    color:  #dfdfdf;
+    top: 3px;
+    left: 10px;
+    float: left;
+    outline: none;
+    z-index: 10;
+}

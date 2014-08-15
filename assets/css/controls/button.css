@@ -1,0 +1,197 @@
+input[type="submit"].web_button_default,
+input[type="button"].web_button_default,
+button[type="submit"].web_button_default,
+button[type="button"].web_button_default,
+a.web_button_default{
+
+    width: 120px;
+    height: 30px;
+    color:  #4a4a4a;
+    text-align: center;
+    position: relative;
+    outline: none;
+    border: solid #2c2c2c 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    line-height: 30px;
+    cursor: pointer;
+
+    background: -webkit-linear-gradient(0deg, #e1a101, #e9cd00); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(0deg, #e1a101, #e9cd00); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(0deg, #e1a101, #e9cd00); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(0deg, #e1a101, #e9cd00); /* Standard syntax */
+}
+
+input[type="submit"].web_button_default:hover,
+input[type="button"].web_button_default:hover,
+button[type="submit"].web_button_default:hover,
+button[type="button"].web_button_default:hover,
+a.web_button_default:hover{
+
+    background: -webkit-linear-gradient(180deg, #e1a101, #e9cd00); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(180deg, #e1a101, #e9cd00); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(180deg, #e1a101, #e9cd00); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(180deg, #e1a101, #e9cd00); /* Standard syntax */
+}
+
+input[type="submit"].web_button_default:active,
+input[type="button"].web_button_default:active,
+button[type="submit"].web_button_default:active,
+button[type="button"].web_button_default:active,
+a.web_button_default:active{
+
+    background: -webkit-linear-gradient(45deg, #e1a101, #e9cd00); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(45deg, #e1a101, #e9cd00); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(45deg, #e1a101, #e9cd00); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(45deg, #e1a101, #e9cd00); /* Standard syntax */
+}
+
+.web_button_login {
+
+    border-radius: 10px !important;
+    -webkit-border-radius: 10px !important;
+    -moz-border-radius: 10px !important;
+
+    font-size: 12pt;
+    font-weight: bold;
+    width: 386px !important;
+    height: 46px !important;
+    line-height: 46px;
+}
+
+.web_button_search {
+
+    width: 77px !important;
+    height: 26px !important;
+    line-height: 24px !important;;
+    color:  #4a4a4a;
+    font-weight: bold;
+    font-size: 80%;
+    top: 4px !important;
+    right: 4px !important;
+    float: right !important;
+    z-index: 10;
+}
+
+
+
+input[type="submit"].web_button_gray,
+input[type="button"].web_button_gray,
+button[type="submit"].web_button_gray,
+button[type="button"].web_button_gray,
+a.web_button_gray{
+
+    width: 120px;
+    height: 30px;
+    color:  #4a4a4a;
+    text-align: center;
+    position: relative;
+    outline: none;
+    border: solid #2c2c2c 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    line-height: 30px;
+    cursor: pointer;
+
+    background: -webkit-linear-gradient(0deg, #cccccc, #f4f4f4); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(0deg, #cccccc, #f4f4f4); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(0deg, #cccccc, #f4f4f4); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(0deg, #cccccc, #f4f4f4); /* Standard syntax */
+}
+
+input[type="submit"].web_button_gray:hover,
+input[type="button"].web_button_gray:hover,
+button[type="submit"].web_button_gray:hover,
+button[type="button"].web_button_gray:hover,
+a.web_button_gray:hover{
+
+    background: -webkit-linear-gradient(180deg, #cccccc, #f4f4f4); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(180deg, #cccccc, #f4f4f4); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(180deg, #cccccc, #f4f4f4); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(180deg,  #cccccc, #f4f4f4); /* Standard syntax */
+}
+
+input[type="submit"].web_button_gray:active,
+input[type="button"].web_button_gray:active,
+button[type="submit"].web_button_gray:active,
+button[type="button"].web_button_gray:active,
+a.web_button_gray:active{
+
+    background: -webkit-linear-gradient(45deg, #cccccc, #f4f4f4); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(45deg, #cccccc, #f4f4f4); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(45deg, #cccccc, #f4f4f4); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(45deg, #cccccc, #f4f4f4); /* Standard syntax */
+}
+
+.web_navigator_button
+{
+    position: relative;
+    font-size: 9px !important;
+    margin: 0;
+    width: 80px !important;
+    border-right: solid 1px #2c2c2c !important;
+    -webkit-border-radius: 0 !important;
+    -moz-border-radius: 0 !important;;
+    border-radius: 0 !important;
+    line-height: 20px !important;
+}
+
+.web_navigator_button_icon {
+
+    padding: 0;
+    display: block;
+}
+
+.web_navigator_button_icon:before {
+
+    padding: 0 2px 5px 2px;
+    font-family: "mainicon";
+    font-size: 14px;
+    margin-left: 0;
+    position: relative;
+}
+
+#web_body_content_panel_navigator_control ul,
+#web_body_content_panel_navigator_control li{
+
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    float: left;
+    position: relative;
+}
+
+#web_body_content_panel_navigator_control ul {
+
+    margin: 0 3px 0 3px;
+}
+
+#web_body_content_panel_navigator_control ul:last-child {
+
+    margin: 0 0 0 3px;
+}
+
+li:first-child .web_navigator_button {
+
+    -webkit-border-radius: 3px 0 0 3px !important;
+    -moz-border-radius: 3px 0 0 3px !important;;
+    border-radius: 3px 0 0 3px !important;
+}
+
+li:last-child .web_navigator_button {
+
+    border-right: solid 0 #2c2c2c !important;
+    -webkit-border-radius: 0 3px 3px 0 !important;
+    -moz-border-radius: 0 3px 3px 0 !important;;
+    border-radius: 0 3px 3px 0 !important;
+}
+
+li:only-child .web_navigator_button {
+
+    border-right: solid 0 #2c2c2c !important;
+    -webkit-border-radius: 3px !important;
+    -moz-border-radius: 3px !important;
+    border-radius: 3px !important;
+}

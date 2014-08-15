@@ -1,0 +1,25 @@
+#logo{
+
+    background: url("../images/logo.png") no-repeat;
+    left: 5px;
+    top: 9px;
+    position: relative;
+    border: 0 solid #FFF;
+    width: 79px;
+    height: 62px;
+    float: left;
+}
+
+#logo_label
+{
+    position: absolute;
+    border: 0 solid #FFF;
+    width: 150px;
+    height: 62px;
+    float: left;
+    vertical-align: middle;
+    right: -40px;
+    z-index: 9999;
+    color: #000;
+    top: 14px;
+}

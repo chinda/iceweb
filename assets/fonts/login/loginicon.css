@@ -1,0 +1,31 @@
+@font-face {
+	font-family: "loginicon";
+	src: url("loginicon.eot");
+	src: url("loginicon.eot#iefix") format("embedded-opentype"),
+	url("loginicon.woff") format("woff"),
+	url("loginicon.ttf") format("truetype"),
+	url("loginicon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="loginicon-"]:before, [class*=" loginicon-"]:before,
+[class^="loginicon-"]:after, [class*=" loginicon-"]:after {   
+	font-family: loginicon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.loginicon-bust:before {
+	content: "\e000";
+}
+.loginicon-lock27:before {
+	content: "\e001";
+}
+.loginicon-login:before {
+	content: "\e002";
+}
+.loginicon-mexican5:before {
+	content: "\e003";
+}
+.loginicon-padlock11:before {
+	content: "\e004";
+}

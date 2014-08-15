@@ -1,0 +1,145 @@
+@font-face {
+	font-family: "mainicon";
+	src: url("mainicon.eot");
+	src: url("mainicon.eot#iefix") format("embedded-opentype"),
+	url("mainicon.woff") format("woff"),
+	url("mainicon.ttf") format("truetype"),
+	url("mainicon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="mainicon-"]:before, [class*=" mainicon-"]:before,
+[class^="mainicon-"]:after, [class*=" mainicon-"]:after {   
+	font-family: mainicon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.mainicon-2440:before {
+	content: "\e000";
+}
+.mainicon-accounting1:before {
+	content: "\e001";
+}
+.mainicon-arrow46:before {
+	content: "\e002";
+}
+.mainicon-arrow497:before {
+	content: "\e003";
+}
+.mainicon-boxes2:before {
+	content: "\e004";
+}
+.mainicon-bust:before {
+	content: "\e005";
+}
+.mainicon-check30:before {
+	content: "\e006";
+}
+.mainicon-clipboard52:before {
+	content: "\e007";
+}
+.mainicon-clock37:before {
+	content: "\e008";
+}
+.mainicon-clock40:before {
+	content: "\e009";
+}
+.mainicon-clock61:before {
+	content: "\e00a";
+}
+.mainicon-data79:before {
+	content: "\e00b";
+}
+.mainicon-delivery23:before {
+	content: "\e00c";
+}
+.mainicon-delivery29:before {
+	content: "\e00d";
+}
+.mainicon-documents14:before {
+	content: "\e00e";
+}
+.mainicon-electronic1:before {
+	content: "\e00f";
+}
+.mainicon-envelope4:before {
+	content: "\e010";
+}
+.mainicon-first4:before {
+	content: "\e011";
+}
+.mainicon-folder15:before {
+	content: "\e012";
+}
+.mainicon-home113:before {
+	content: "\e013";
+}
+.mainicon-human74:before {
+	content: "\e014";
+}
+.mainicon-lifeline3:before {
+	content: "\e015";
+}
+.mainicon-lock27:before {
+	content: "\e016";
+}
+.mainicon-login:before {
+	content: "\e017";
+}
+.mainicon-mexican5:before {
+	content: "\e018";
+}
+.mainicon-notes17:before {
+	content: "\e019";
+}
+.mainicon-package8:before {
+	content: "\e01a";
+}
+.mainicon-padlock11:before {
+	content: "\e01b";
+}
+.mainicon-person128:before {
+	content: "\e01c";
+}
+.mainicon-pile:before {
+	content: "\e01d";
+}
+.mainicon-plus24:before {
+	content: "\e01e";
+}
+.mainicon-printer63:before {
+	content: "\e01f";
+}
+.mainicon-recycle2:before {
+	content: "\e020";
+}
+.mainicon-refresh22:before {
+	content: "\e021";
+}
+.mainicon-refresh23:before {
+	content: "\e022";
+}
+.mainicon-rent2:before {
+	content: "\e023";
+}
+.mainicon-sale3:before {
+	content: "\e024";
+}
+.mainicon-search4:before {
+	content: "\e025";
+}
+.mainicon-settings13:before {
+	content: "\e026";
+}
+.mainicon-shopping73:before {
+	content: "\e027";
+}
+.mainicon-slightly:before {
+	content: "\e028";
+}
+.mainicon-television9:before {
+	content: "\e029";
+}
+.mainicon-workers:before {
+	content: "\e02a";
+}

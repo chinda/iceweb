@@ -1,0 +1,20 @@
+@import url("button.css");
+@import url("textfield.css");
+
+
+select.web_dropdown{
+
+    width: 100%;
+    height: 30px;
+    font-size: 10pt;
+    position: relative;
+    /*margin: 5px 0 5px 0;*/
+    padding: 5px 5px 0 0;
+    outline: none;
+    /*background: #ffffff;*/
+    border: solid 1px #e7e7e7;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    background: transparent;
+}
